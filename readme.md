@@ -1,6 +1,6 @@
 ## A. Simple Project RestFull API
 
-                                  I've been make project about Rest full api with laravel and getting response from client to server with postman software. in this code you can learn simple parsing data with jqeury ajax to response data from server. you can follow me in any social media like facebook (anonymous_cyber_surakarta) or instagram (vha_1337).  
+   I've been make project about Rest full api with laravel and getting response from client to server with postman software. in this code you can learn simple parsing data with jqeury ajax to response data from server. you can follow me in any social media like facebook (anonymous_cyber_surakarta) or instagram (vha_1337).  
 
 
 ## B. Features in Program🚀 
