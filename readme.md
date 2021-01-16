@@ -1,9 +1,9 @@
-## Simple Project RestFull API
+## A. Simple Project RestFull API
 
    I've been make project about Rest full api with laravel and getting response from client to server with postman software. in this code you can learn simple parsing data with jqeury ajax to response data from server. you can follow me in any social media like facebook (anonymous_cyber_surakarta) or instagram (vha_1337).  
 
 
-## Features in Program🚀 
+## B. Features in Program🚀 
 
 - [x] Response Create with Postman
 - [x] Response Update with Postman 
@@ -16,7 +16,7 @@
 - [x] Auth API Token Oauth2 
 
 
-## Any Features 🚀 
+## C. Any Features 🚀 
 
 - [x] Validate Message
 - [x] Credential Allocated
@@ -24,7 +24,7 @@
 - [x] Middleware Session Expired
 - [x] Setting Credential
 
-### Response Output
+### D. Response Output
 
 - Screenshoot Response Create
 
@@ -55,7 +55,7 @@
 ![alt text](https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel/blob/master/output/parsing_all_jquery.png
 
 
-### How to install :
+### E. How to install :
 
 1. `install git clone`
 2. `git clone https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel.git`
@@ -74,7 +74,7 @@
 
 6. `php artisan serve`
 - 
-## License
+## F. License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 
