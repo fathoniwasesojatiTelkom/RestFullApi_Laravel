@@ -1,64 +1,73 @@
-## Final Assigment Project Canteen Ordering Online
+## Simple Project RestFull API
 
-   I've been make this project by myself. so please take me comform and donate form me with follow my page in github and so if you want more documentation for this projec, you can send message from email or you can follow my [instagram](https://www.instagram.com/vha_1337/).
-
-
-## Dashboard Admin🚀 
-
-- [x] Admin Profile
-- [x] Tracking Order all User 
-- [x] Grapich View All Product and Price
-- [x] Grapich View Product
-- [x] Create Edite Delete Access All system 
-- [x] Confirm Order User
-- [x] Get All Access for User
+   I've been make project about Rest full api with laravel and getting response from client to server with postman software. in this code you can learn simple parsing data with jqeury ajax to response data from server. you can follow me in any social media like facebook (anonymous_cyber_surakarta) or instagram (vha_1337).  
 
 
-### Simple Output
+## Features in Program🚀 
 
-![alt text](https://github.com/fathoniwasesojatiTelkom/canteen_ordering_online/blob/master/image/admin1.png)
-
-
-## Dashboard User🚀 
-
-- [x] User Profile
-- [x] Tracking Order 
-- [x] Grapich Detail Product 
-- [x] Order Food and Drink
-- [x] Save to Cart
-- [x] Payment Menthod Very Easy
-
-### Simple Output
-
-![alt text](https://github.com/fathoniwasesojatiTelkom/canteen_ordering_online/blob/master/image/user1.png)
+- [x] Response Create with Postman
+- [x] Response Update with Postman 
+- [x] Response Put with Postman
+- [x] Response Delete with Postman
+- [x] Parsing data with Jquery Ajax
+- [x] Auth Token With Basic 
+- [x] Auth Token With Token Owner (Built by Self)
+- [x] Auth API Token JWT (Json Web Token)
+- [x] Auth API Token Oauth2 
 
 
+## Any Features 🚀 
 
-## C. Laravel Canteen Ordering Online 🚀 
+- [x] Validate Message
+- [x] Credential Allocated
+- [x] Redirect other page
+- [x] Middleware Session Expired
+- [x] Setting Credential
 
-Features :
+### Response Output
 
-      * Protected from Hacking
-      * Middleware Auth Redirect
-      * Multi Roles
-      * Authentic Service Provider
-      * Model Query Builder
-      * Controller Structure
-      * View Resource Public
+- Screenshoot Response Create
 
-          
+![alt text](https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel/blob/master/output/creat_respon.png)
+
+- Screenshoot Response Update
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel/blob/master/output/update_response.png)
+
+- Screenshoot Response Delete
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel/blob/master/output/delete_response.png)
+
+- Screenshoot Get Basic Auth Token
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel/blob/master/output/basic_auth.png)
+
+- Screenshoot Get Oauth2 Token
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel/blob/master/output/auth0.png)
+
+- Parsing data Name Jquery Ajax
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel/blob/master/output/parsing_name.png)
+
+- Parsing All data Jquery Ajax
+
+![alt text](https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel/blob/master/output/parsing_all_jquery.png
+
+
 ### How to install :
 
-1. `Import file universitas.sql in Folder SQL`
-2. `git clone https://github.com/fathoniwasesojatiTelkom/canteen_ordering_online.git`
-3. `chmod 777 in Folder public/img`
-4. `php artisan migrate`
-5. `file .env for:`
+1. `install git clone`
+2. `git clone https://github.com/fathoniwasesojatiTelkom/RestFullApi_Laravel.git`
+3. `php artisan migrate`
+4. `php artisan passport:install`
+5. `php artisan passport:client --personal`
+6. `file .env for:`
 
       - DB_CONNECTION=mysql
       - DB_HOST=127.0.0.1
       - DB_PORT=3306
-      - DB_DATABASE=your_database
+      - DB_DATABASE=quotes
       - DB_USERNAME=root
       - DB_PASSWORD=
       - DB_SOCKET=/opt/lampp/var/mysql/mysql.sock
