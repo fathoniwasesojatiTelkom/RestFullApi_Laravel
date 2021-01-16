@@ -1,58 +1,71 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+## Final Assigment Project Canteen Ordering Online
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+   I've been make this project by myself. so please take me comform and donate form me with follow my page in github and so if you want more documentation for this projec, you can send message from email or you can follow my [instagram](https://www.instagram.com/vha_1337/).
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+## Dashboard Admin🚀 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+- [x] Admin Profile
+- [x] Tracking Order all User 
+- [x] Grapich View All Product and Price
+- [x] Grapich View Product
+- [x] Create Edite Delete Access All system 
+- [x] Confirm Order User
+- [x] Get All Access for User
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications.
 
-## Learning Laravel
+### Simple Output
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of any modern web application framework, making it a breeze to get started learning the framework.
+![alt text](https://github.com/fathoniwasesojatiTelkom/canteen_ordering_online/blob/master/image/admin1.png)
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 1100 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## Dashboard User🚀 
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell):
+- [x] User Profile
+- [x] Tracking Order 
+- [x] Grapich Detail Product 
+- [x] Order Food and Drink
+- [x] Save to Cart
+- [x] Payment Menthod Very Easy
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Pulse Storm](http://www.pulsestorm.net/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
+### Simple Output
 
-## Contributing
+![alt text](https://github.com/fathoniwasesojatiTelkom/canteen_ordering_online/blob/master/image/user1.png)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
 
-## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## C. Laravel Canteen Ordering Online 🚀 
 
+Features :
+
+      * Protected from Hacking
+      * Middleware Auth Redirect
+      * Multi Roles
+      * Authentic Service Provider
+      * Model Query Builder
+      * Controller Structure
+      * View Resource Public
+
+          
+### How to install :
+
+1. `Import file universitas.sql in Folder SQL`
+2. `git clone https://github.com/fathoniwasesojatiTelkom/canteen_ordering_online.git`
+3. `chmod 777 in Folder public/img`
+4. `php artisan migrate`
+5. `file .env for:`
+
+      - DB_CONNECTION=mysql
+      - DB_HOST=127.0.0.1
+      - DB_PORT=3306
+      - DB_DATABASE=your_database
+      - DB_USERNAME=root
+      - DB_PASSWORD=
+      - DB_SOCKET=/opt/lampp/var/mysql/mysql.sock
+
+6. `php artisan serve`
+- 
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
